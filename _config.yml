@@ -16,12 +16,10 @@ author:
   name:           'Aly Chace'
   url:            https://twitter.com/mdo
 
-paginate:         5
-
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
 
-plugins: [jekyll-paginate,redcarpet,pygments.rb]
+plugins: [redcarpet,pygments.rb]
