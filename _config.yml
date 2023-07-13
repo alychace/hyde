@@ -14,12 +14,10 @@ baseurl:          /
 
 author:
   name:           'Aly Chace'
-  url:            https://twitter.com/mdo
+  url:            https://mastodon.social/@alyc
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
 
-plugins: [redcarpet,pygments.rb]
+plugins: [redcarpet,pygments.rb,jekyll-seo-tag,jekyll-paginate]
