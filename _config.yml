@@ -1,15 +1,12 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
 
 # Setup
 title:            Aly Chace
 tagline:          'Digital Marketer in Atlanta, Ga.'
 description:      'Digital Marketer in Atlanta, Ga.'
-url:              http://hyde.getpoole.com
+url:              https://alychace.com
 baseurl:          /
 
 author:
@@ -19,5 +16,8 @@ author:
 # Custom vars
 version:          2.1.0
 
+permalink: /:title/
+
+paginate: 5
 
 plugins: [redcarpet,pygments.rb,jekyll-seo-tag,jekyll-paginate]
