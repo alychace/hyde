@@ -11,7 +11,15 @@ baseurl:          /
 
 author:
   name:           'Aly Chace'
-  url:            https://mastodon.social/@alyc
+  mastodon:
+    title:        "@alyc@mastodon.social"
+    url:          https://mastodon.social/@alyc
+  matrix:         
+    title:        "@alymch:matrix.org"
+    url:          https://matrix.to/#/@alymch:matrix.org
+  email:         
+    title:        aly@alychace.com
+    url:          mailto:aly@alychace.com
 
 # Custom vars
 version:          2.1.0
