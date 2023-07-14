@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+hidden: true
 ---
 
 <h2>What I Do</h2>
