@@ -6,7 +6,12 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead">{{ site.tagline }}</p>
+      <!-- <hr>
+      <a class="sidebar-nav-item" href="{{site.author.mastodon.url}}"><i class="fa-brands fa-mastodon"></i> {{site.author.mastodon.title}}</a>
+      <!-- <a class="sidebar-nav-item" href="{{ site.author.matrix.url }}">{{site.author.matrix.title}}</a>
+      <a class="sidebar-nav-item" href="{{ site.author.email.url }}"><i class="fa-solid fa-envelope"></i> {{site.author.email.title}}</a>
+      <hr> -->
     </div>
 
     <nav class="sidebar-nav">
@@ -29,6 +34,6 @@
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
 
-    <p class="footer">🄯 {{ site.time | date: '%Y' }}. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+    <p class="footer">&copy; {{ site.time | date: '%Y' }}. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
   </div>
 </div>
