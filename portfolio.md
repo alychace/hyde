@@ -1,17 +1,26 @@
 ---
 layout: page
-title: Portfolio
+title: Hire Me
 hidden: true
 ---
+
+## Who I Am
+
+1. I'm Aly.
+2. I'm a Content Operations Specialist at Global Savings Group.
+3. I'm a Game Boy modder and retro enthusiast at <a href="https://instagram.com/alygbmods">Aly's Mods</a>.
+4. I have degrees in Applied Linguistics (BA) and Anthropology (MA).
+5. I was a PhD student and instructor in Moving Image Studies at <a href="https://gsu.edu">GSU</a>.
+
+<hr>
 
 <h2>What I Do</h2>
 <ol>
     <li>I tell compelling stories and create helpful, SEO-optimized content that drives conversions and improves online presence.</li>
     <li>I collect feedback from key datapoints in order to guide content creation, optimize performance, and refine target audiences as algorithmic, economic, and industry conditions shift.</li>
-    <li>I implement effective content strategies, social media campaigns, and websites that build communities and engage audiences.</li>
+    <li>I implement effective content strategies, social media campaigns, and online presences that build communities and engage audiences.</li>
+    <li>I design and build optimized websites that rank highly, adapt to users wherever they are, and scale effectively.</li>
 </ol>
-
-Currently, I am a Content Operations Editor at Global Savings Group. I also manage an influencer/e-commerce business at <a href="https://instagram.com/alygbmods">Aly's Mods</a>. Formerly, I was a PhD student in Film and an MA student in Anthropology at <a href="https://gsu.edu">GSU</a>. Before grad school, I worked at <a href="https://simpleshowing.com">SimpleShowing</a>, a digital real estate startup.
 
 <hr>
 <h2 id="words">Words I've Written</h2>
