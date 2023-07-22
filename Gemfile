@@ -1,7 +1,8 @@
 source 'http://rubygems.org'
 
-gem 'github-pages'
+gem 'jekyll'
 gem 'redcarpet'
 gem 'pygments.rb'
 gem 'webrick'
 gem 'jekyll-paginate'
+gem 'jekyll-seo-tag'
