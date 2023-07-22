@@ -1,16 +1,19 @@
 ---
-layout: page
+layout: default
 title: Hire Me
 hidden: true
 ---
 
+# Hi, I'm Aly.
+
+---
+
 ## Who I Am
 
-1. I'm Aly.
-2. I'm a Content Operations Specialist at Global Savings Group.
-3. I'm a Game Boy modder and retro enthusiast at <a href="https://instagram.com/alygbmods">Aly's Mods</a>.
-4. I have degrees in Applied Linguistics (BA) and Anthropology (MA).
-5. I was a PhD student and instructor in Moving Image Studies at <a href="https://gsu.edu">GSU</a>.
+1. I'm a Content Operations Specialist at Global Savings Group.
+2. I'm a Game Boy modder and retro enthusiast at <a href="https://instagram.com/alygbmods">Aly's Mods</a>.
+3. I have degrees in Applied Linguistics (BA) and Anthropology (MA).
+4. I was a PhD student and instructor in Moving Image Studies at <a href="https://gsu.edu">GSU</a>.
 
 <hr>
 
@@ -33,15 +36,15 @@ Zaful is your one-stop-shop for all the latest fashion trends. And new customers
 <hr>
 <h2 id="posts">Posts I've Made</h2>
 <ul>
-    <li>- How to Swap Your Game Boy's Shell. <a href="https://www.instagram.com/p/CZZaplyOvC9/">INSTA</a>.</li>
-    <li>- Top 4 Cozy Game Boy RPGs. <a href="https://www.instagram.com/p/Cn7VwFXOu-E/">INSTA</a>.</li>
+    <li> How to Swap Your Game Boy's Shell. <a href="https://www.instagram.com/p/CZZaplyOvC9/">INSTA</a>.</li>
+    <li> Top 4 Cozy Game Boy RPGs. <a href="https://www.instagram.com/p/Cn7VwFXOu-E/">INSTA</a>.</li>
 </ul>
 <hr>
 <h2 id="photos">Photos I've Taken</h2>
 <ul>
-    <li>- Hulsey Yards. <a href="https://www.instagram.com/p/B5dO9bwHfuY/">INSTA</a>.</li>
-    <li>- GSU on a Rainy Day. <a href="https://www.instagram.com/p/Bg111D5gQXL/">INSTA</a>.</li>
-    <li>- Custom Game Boy (product photograph). <a href="https://www.flickr.com/photos/161224807@N06/52674784597/in/dateposted-public/">FLICKR</a>.</li>
+    <li> Hulsey Yards. <a href="https://www.instagram.com/p/B5dO9bwHfuY/">INSTA</a>.</li>
+    <li> GSU on a Rainy Day. <a href="https://www.instagram.com/p/Bg111D5gQXL/">INSTA</a>.</li>
+    <li> Custom Game Boy (product photograph). <a href="https://www.flickr.com/photos/161224807@N06/52674784597/in/dateposted-public/">FLICKR</a>.</li>
 </ul>
 <hr>
 <h2 id="websites">Websites I've Built</h2>
@@ -51,7 +54,7 @@ Zaful is your one-stop-shop for all the latest fashion trends. And new customers
     <li>- SimpleShowing.com (employer website). <a href="https://simpleshowing.com">LINK</a>. <a href="https://web.archive.org/web/20180107122945/https://simpleshowing.com/sell">ARCHIVE</a>.</li>
     <li>- Alysmods.com (landing page). <a href="https://alysmods.com">LINK</a>.</li>
 </ul>
-<!--   <h2>Apps I've Coded</h2>
+<h2>Apps I've Coded</h2>
 - Pomodorino (graphical task manager in Vala). <a href="https://github.com/alychace/pomodorino">SRC</a>.<br>
 - Post (package manager for GNU/Linux in Ruby). <a href="https://github.com/alychace/post">SRC</a>.<br>
 - Qor (<i>Space Invaders</i> inspired shoot 'em up in Pygame). <a href="https://github.com/alychace/qor">SRC</a>.
@@ -65,4 +68,4 @@ Zaful is your one-stop-shop for all the latest fashion trends. And new customers
 </p>
 <h2>Courses I've Taught</h2>
 - History of Motion Pictures, Fall 2020. <a href="{{site.url }}/assets/flme2700.pdf">PDF</a>.<br>
-- Film Aesthetics and Analysis, Spring 2020. <a href="{{site.url }}/assets/flme1010.pdf">PDF</a>. -->
+- Film Aesthetics and Analysis, Spring 2020. <a href="{{site.url }}/assets/flme1010.pdf">PDF</a>.
